@@ -14,6 +14,7 @@ public class IntegerSurplus {
     public static void main(String[] args) {
         List<Integer> wanshu = new ArrayList<>();
         List<Integer> yingshu = new ArrayList<>();
+        //yingshu.add(2);
         for (int i = 2; i <= 60; i++) {
             int result = 0;
             for (int j = 1; j < i; j++) {
