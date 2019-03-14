@@ -7,6 +7,7 @@
 - [反序数](./src/com/sakura/aaaac/SequenceEqual.java)
 - [完数](./src/com/sakura/aaaad/IntegerSurplus.java)
 - [加法等式](./src/com/sakura/aaaae/AdditionEquation.java)
+- [单词识别](./src/com/sakura/aaaaf/WordRecognition.java)
 
 ### 类似题目答案编写私聊博主或是加群（或是个人小项目）
 
