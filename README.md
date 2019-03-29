@@ -14,7 +14,7 @@
 - [直角三角形](./src/com/sakura/aaaaj/Main.java)
 - [两点之间距离计算](./src/com/sakura/aaaak/Main.java)
 - [弹地小球](./src/com/sakura/aaaal/Main.java)
-- [三角形想加](./src/com/sakura/aaaam/Main.java)
+- [三角形相加](./src/com/sakura/aaaam/Main.java)
 
 ### 类似疑问私聊博主或是加群
 
