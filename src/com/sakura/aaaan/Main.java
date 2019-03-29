@@ -1,7 +1,7 @@
 package com.sakura.aaaan;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.LinkedHashMap;
+import java.util.Map;
 import java.util.Scanner;
 
 /**
@@ -25,7 +25,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int count = 0;
-        List<String> list = new ArrayList<>();
+        Map<String, Integer> map = new LinkedHashMap<>();
         while (count < 10) {
             String value = scanner.next();
             int val = Integer.parseInt(value);
@@ -35,12 +35,12 @@ public class Main {
             StringBuilder result = new StringBuilder();
             for (int i = 0; i < value.length(); i++) {
                 result.append(value.toCharArray()[value.length() - i - 1]);
-                count++;
             }
-            list.add(String.valueOf(Integer.parseInt(result.toString())));
+            map.put(value, Integer.parseInt(result.toString()));
+            count++;
 
         }
-        System.out.println(String.join(" ", list));
+        map.forEach((k, v) -> System.out.println(k + " " + v));
     }
 }
 
