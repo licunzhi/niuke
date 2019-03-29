@@ -16,7 +16,7 @@
 - [弹地小球](./src/com/sakura/aaaal/Main.java)
 - [三角形想加](./src/com/sakura/aaaam/Main.java)
 
-### 类似题目答案编写私聊博主或是加群（或是个人小项目）
+### 类似疑问私聊博主或是加群
 
 ![个人](./2718272293.jpg)
 
