@@ -16,6 +16,7 @@
 - [弹地小球](./src/com/sakura/aaaal/Main.java)
 - [三角形相加](./src/com/sakura/aaaam/Main.java)
 - [整型存储](./src/com/sakura/aaaan/Main.java)
+- [判断数字位置](./src/com/sakura/aaaao/Main.java)
 
 ### 类似疑问私聊博主或是加群
 
